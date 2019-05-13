@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Portal_Hillefeld.unity
+  isLoaded: 1
+  isActive: 1
